@@ -1,9 +1,9 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.meta.xuyj.multiimageselector"
+        //applicationId "com.meta.xuyj.multiimageselector"
         minSdkVersion 16
         targetSdkVersion 27
         versionCode 1
